@@ -1,0 +1,50 @@
+Telecommunications Links
+
+1. A communications medium consisting of a pair of wires?
+
+C. Twisted Pair
+options:
+"A. Terrestrial Microwave",
+"B. Coaxial Cable",
+"C. Twisted Pair",
+"D. Fiber Optics"
+
+
+2. What does microwaves mean in spanish?
+
+A. Microondas
+options:
+"A. Microondas",
+"B. Ondas micro",
+"C. Microseñales",
+"D. Microbios"
+
+
+3. How can I say in English "inalámbrico"?
+
+A. Wireless
+options:
+"A. Wireless",
+"B. Transmission",
+"C. Microwaves",
+"D. Radiowaves"
+
+
+4. What is the media by which the signal is transmitted from an earth station to a satellite?
+
+D. Satellite Transmission
+options:
+"A. Twisted Pair",
+"B. Fiber Optics",
+"C. Terrestrial Microwave",
+"D. Satellite Transmissions"
+
+
+5. What does "shielded mean in spanish?
+
+D. Blindado
+options:
+"A. Escudado",
+"B. Nucleo",
+"C. Impermeable",
+"D. Blindado"
